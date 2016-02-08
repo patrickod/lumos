@@ -1,4 +1,4 @@
-update=Thu 04 Feb 2016 07:26:54 PM PST
+update=Sun 07 Feb 2016 04:29:08 PM PST
 version=1
 last_client=kicad
 [pcbnew]
@@ -59,3 +59,13 @@ LibName27=atmel
 LibName28=contrib
 LibName29=valves
 LibName30=MCU-ATTINY85-20PU_DIP8_
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=Pcbnew
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=60
